@@ -1,4 +1,35 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Emotion Tracker
+
+O Emotion Tracker é um aplicativo desenvolvido para ajudar os usuários a acompanhar e compreender suas emoções ao longo do tempo. Com ele, você pode registrar uma variedade de estados emocionais, como ansiedade, raiva, alegria, tristeza e muito mais, e analisar padrões e gatilhos que podem influenciar suas emoções.
+
+## Funcionalidades
+
+- Em desenvolvimento
+
+## Como Contribuir
+
+Se você gostaria de contribuir para o desenvolvimento contínuo do Emotion Tracker, veja as seguintes etapas:
+
+1. Fork o repositório e clone-o para o seu computador local.
+2. Implemente as alterações ou adições desejadas.
+3. Teste suas alterações localmente para garantir que funcionem conforme o esperado.
+4. Faça um pull request com uma descrição clara das alterações que você fez.
+
+## Como Instalar
+
+Atualmente, o Emotion Tracker está em desenvolvimento ativo e pode não estar disponível para instalação pública. No entanto, você pode clonar o repositório e executá-lo localmente em seu ambiente de desenvolvimento.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+## Contato
+
+Se você tiver alguma dúvida, sugestão ou encontrar problemas, sinta-se à vontade para abrir uma issue neste repositório ou entrar em contato conosco através do email trackeremotion@gmail.com
+
+
+
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -61,4 +92,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
